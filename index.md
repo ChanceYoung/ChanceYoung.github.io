@@ -3,20 +3,9 @@ title: Home
 layout: default
 ---
 
-# Hey, I’m Chance
-Short sentence on what you do (ERP integrations, automation, indie games).
-Add 1–2 links if you want (GitHub, LinkedIn).
+Hi, I’m Chance 👋
 
-## Latest posts
-<div class="post-grid">
-{% for post in site.posts limit:9 %}
-  <a class="post-card" href="{{ post.url | relative_url }}">
-    {% assign thumb = post.thumb | default: '/assets/images/placeholder.jpg' %}
-    <img class="post-thumb" src="{{ thumb | relative_url }}" alt="">
-    <div class="post-body">
-      <h3 class="post-title">{{ post.title }}</h3>
-      <div class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</div>
-    </div>
-  </a>
-{% endfor %}
-</div>
+I’m a software engineer who builds ERP integrations at work and indie games at home.  
+This site is where I write about the projects I’ve finished and what I’ve been learning. My hope is to improve my ability to explain my thought process and approach to software design and development as I outline some of my favorite projects I have worked on. 
+
+
