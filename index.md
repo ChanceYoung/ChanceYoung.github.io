@@ -2,9 +2,11 @@
 title: Home
 ---
 
-# Hey, I’m Chance 👋
-I build practical software (ERP integrations, automation) and small finished games.  
-This site is a **project-summary** library: more detail than a résumé, less than a full repo.
+# Hello there, I’m Chance.
+
+I’m a software engineer, and this site is focused on improving how I explain my design approach and thought process when building projects. My passion for video games is what first drew me into software engineering, and over time I’ve had the chance to explore many facets of the field — from game development to dev operations to lightweight scripting.
+
+Feel free to explore my project summaries below. If my work resonates with you and you think I could be a valuable addition to your team, you can download my resume [here](/assets/downloadables/ChanceYoungResume%209_3_25.pdf) or reach me at chanceyoungwebdev@gmail.com.
 
 ## Featured Projects
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
@@ -26,4 +28,4 @@ This site is a **project-summary** library: more detail than a résumé, less th
 {% endfor %}
 </div>
 
-<p class="mt-3"><a class="btn btn-outline-light" href="{{ '/projects/' | relative_url }}">View all projects</a></p>
+<!-- <p class="mt-3"><a class="btn btn-outline-light" href="{{ '/projects/' | relative_url }}">View all projects</a></p> -->
