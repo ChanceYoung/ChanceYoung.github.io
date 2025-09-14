@@ -1,7 +1,7 @@
 ---
 title: "Shipping My First Finished Game (10-Day Jam)"
-permalink: /projects/game-jam/
-thumb: /assets/images/game-jam-thumb.jpg
+permalink: /projects/objectiveoptional/
+thumb: /assets/images/generic-thumb.jpg
 summary: "How I scoped, built, and shipped my first finished game in 10 days."
 tags: [gamedev, godot]
 order: 10          # lower shows earlier in the list
@@ -9,7 +9,7 @@ featured: true     # appears on the home page grid
 ---
 
 ## Context
-…
+I designed and developed a game for the 2025 Shovel Jam.
 
 ## Approach
 …
