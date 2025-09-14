@@ -1,1 +1,16 @@
+title: "Chance Young"
+description: "Portfolio Project summaries with selective code."
+url: "https://chanceyoung.dev"
+baseurl: ""
 
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/   # pages get clean URLs
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }

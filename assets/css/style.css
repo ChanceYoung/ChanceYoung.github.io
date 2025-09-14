@@ -1,0 +1,95 @@
+/* ===== Base layout tweaks ===== */
+:root {
+  --container-max: 980px;
+  --card-radius: 14px;
+  --surface-1: #0f1116;       /* dark card bg */
+  --surface-2: #0b0d12;       /* code bg */
+  --border-1: rgba(255,255,255,.12);
+  --muted: rgba(255,255,255,.7);
+}
+
+.container {
+  max-width: var(--container-max);
+}
+
+h1, h2, h3 { letter-spacing: .2px; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ===== Navbar ===== */
+.navbar { border: 0; box-shadow: none; }
+
+/* ===== Card grid (works with Bootstrap rows/cols OR a CSS grid) ===== */
+.post-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.card {
+  background: var(--surface-1);
+  border: 1px solid var(--border-1);
+  border-radius: var(--card-radius);
+  overflow: hidden;
+}
+
+.card-img-top,
+.post-thumb {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+  background: #111;
+}
+
+.card-title { margin-bottom: .25rem; }
+.card-text.small,
+.text-secondary.small { color: var(--muted) !important; }
+
+/* Anchor cards (when the whole card is a link) */
+a.card {
+  color: inherit;
+  text-decoration: none;
+}
+a.card:hover {
+  transform: translateY(-1px);
+  transition: transform .12s ease-in-out;
+}
+
+/* ===== Code blocks ===== */
+pre, code { font-size: .95rem; }
+pre {
+  background: var(--surface-2);
+  border: 1px solid var(--border-1);
+  border-radius: 10px;
+  padding: .85rem 1rem;
+  overflow: auto;
+}
+pre code {
+  background: transparent !important;
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+/* “Copy” button injected by JS */
+pre .btn {
+  position: absolute;
+  top: .5rem;
+  right: .5rem;
+}
+
+/* ===== Callouts (optional include) ===== */
+.callout {
+  padding: .8rem 1rem;
+  border-radius: 10px;
+  margin: 1rem 0;
+  border: 1px solid var(--border-1);
+}
+.callout-note { background: #0f1116; }
+.callout-tip  { background: #0e1a12; border-color: #2a6a3a; }
+.callout-warn { background: #1a1010; border-color: #7a3a3a; }
+
+/* ===== Utilities ===== */
+.mt-1{margin-top:.25rem}.mt-2{margin-top:.5rem}.mt-3{margin-top:1rem}.mt-4{margin-top:1.5rem}
+.mb-1{margin-bottom:.25rem}.mb-2{margin-bottom:.5rem}.mb-3{margin-bottom:1rem}.mb-4{margin-bottom:1.5rem}
+.fw-semibold { font-weight: 600; }
