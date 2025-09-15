@@ -9,10 +9,9 @@ featured: true     # appears on the home page grid
 ---
 
 ## Context
-
+**Objective Optional*
 
 ## Approach
-…
 
 ## Hardest Decision
 ```gdscript
@@ -21,5 +20,5 @@ if Input.is_action_just_pressed("jump") and is_on_floor():
    ```
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMwODIwMTYsOTkxMzczOTgzXX0=
+eyJoaXN0b3J5IjpbLTk5MTg0ODg4MSw5OTEzNzM5ODNdfQ==
 -->
