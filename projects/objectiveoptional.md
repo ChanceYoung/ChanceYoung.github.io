@@ -19,7 +19,9 @@ We decided that we wanted this little astronaut to be woken up by an AI stating 
 
 We then started brainstorming tasks that would distract our poor astronaut from getting to his mission. We came up with the following list:
 - Getting a cup of Coffee
-- Repair
+- Repairing something in the ship
+
+At that point, it
 
 ## Hardest Decision
 ```gdscript
@@ -28,6 +30,6 @@ if Input.is_action_just_pressed("jump") and is_on_floor():
    ```
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYwOTg2NTMsLTY1MzczMjQxMSw5OT
+eyJoaXN0b3J5IjpbLTEwNDI0NzQzNjIsLTY1MzczMjQxMSw5OT
 EzNzM5ODNdfQ==
 -->
