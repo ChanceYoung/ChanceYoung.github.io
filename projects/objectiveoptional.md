@@ -9,7 +9,7 @@ featured: true     # appears on the home page grid
 ---
 
 ## Context
-[*Objective Optional*](https://kiriyai.itch.io/objective-optional) was created for the [2025 Shovel Jam](https://itch.io/jam/shovel-jam-2025).  This is the first every game that has been brought to completion by Fuzzy Stego
+[*Objective Optional*](https://kiriyai.itch.io/objective-optional) was created for the [2025 Shovel Jam](https://itch.io/jam/shovel-jam-2025).  This is the first every game that has been published by Fuzzy Stego Studio. 
 
 ## Approach
 
@@ -20,5 +20,5 @@ if Input.is_action_just_pressed("jump") and is_on_floor():
    ```
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjgxNzU1Nyw5OTEzNzM5ODNdfQ==
+eyJoaXN0b3J5IjpbLTI1MjU2NzksOTkxMzczOTgzXX0=
 -->
