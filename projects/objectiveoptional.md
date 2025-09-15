@@ -21,7 +21,7 @@ We then started brainstorming tasks that would distract our poor astronaut from 
 - Getting a cup of Coffee
 - Repairing something in the ship
 
-At that point, it
+At that point, it was 3 days into the 10 day deadline, so the itch to jump in got too strong. I began setting up a standard character scene within the Godot Game Engine. 
 
 ## Hardest Decision
 ```gdscript
@@ -30,6 +30,6 @@ if Input.is_action_just_pressed("jump") and is_on_floor():
    ```
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI0NzQzNjIsLTY1MzczMjQxMSw5OT
-EzNzM5ODNdfQ==
+eyJoaXN0b3J5IjpbNjc0NzMxNDg2LC02NTM3MzI0MTEsOTkxMz
+czOTgzXX0=
 -->
