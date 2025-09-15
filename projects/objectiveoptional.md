@@ -9,15 +9,17 @@ featured: true     # appears on the home page grid
 ---
 
 ## Context
-I designed and developed a game for the 2025 Shovel Jam.
+I love video games. I have loved them since I was very young. It sounds cliche, but I was a minecraft kid. 
 
 ## Approach
 …
 
-## Key Snippet
+## Hardest Decision
 ```gdscript
 if Input.is_action_just_pressed("jump") and is_on_floor():
-    state = "jumping"```
+    state = "jumping" 
+   ```
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzNTg1NzExXX0=
+eyJoaXN0b3J5IjpbLTE3NjY4MTg5ODRdfQ==
 -->
