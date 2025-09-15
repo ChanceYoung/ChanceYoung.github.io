@@ -9,7 +9,7 @@ featured: true     # appears on the home page grid
 ---
 
 ## Context
-*Objective Optional* was created for the [2025 Shovel Jam](https://itch.io/jam/shovel-jam-2025)
+[*Objective Optional*]( was created for the [2025 Shovel Jam](https://itch.io/jam/shovel-jam-2025). 
 
 ## Approach
 
@@ -20,5 +20,5 @@ if Input.is_action_just_pressed("jump") and is_on_floor():
    ```
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzE3NjQzOCw5OTEzNzM5ODNdfQ==
+eyJoaXN0b3J5IjpbNjA5MzA1MDA0LDk5MTM3Mzk4M119
 -->
