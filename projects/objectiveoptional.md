@@ -11,7 +11,7 @@ featured: true     # appears on the home page grid
 ## Context
 [*Objective Optional*](https://kiriyai.itch.io/objective-optional) was created for the [2025 Shovel Jam](https://itch.io/jam/shovel-jam-2025) and marks the first published game by **Fuzzy Stego Studio**.
 
-The theme for the Jam was "Just Get Started". The rough idea 
+The theme for the Jam was "Just Get Started". 
 
 ## Approach
 
@@ -22,5 +22,5 @@ if Input.is_action_just_pressed("jump") and is_on_floor():
    ```
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzYwNjcyNyw5OTEzNzM5ODNdfQ==
+eyJoaXN0b3J5IjpbMTg0NDQ1NzExNCw5OTEzNzM5ODNdfQ==
 -->
