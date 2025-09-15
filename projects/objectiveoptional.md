@@ -17,4 +17,7 @@ I designed and developed a game for the 2025 Shovel Jam.
 ## Key Snippet
 ```gdscript
 if Input.is_action_just_pressed("jump") and is_on_floor():
-    state = "jumping"
+    state = "jumping"```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTQzNTg1NzExXX0=
+-->
