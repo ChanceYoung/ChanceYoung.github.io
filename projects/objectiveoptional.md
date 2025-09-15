@@ -11,9 +11,11 @@ featured: true     # appears on the home page grid
 ## Context
 [*Objective Optional*](https://kiriyai.itch.io/objective-optional) was created for the [2025 Shovel Jam](https://itch.io/jam/shovel-jam-2025) and marks the first published game by **Fuzzy Stego Studio**.
 
-The theme for the Jam was "Just Get Started". My wife and I began to brainstorm, and spent 3 of the 10 days discussing what we would do. We landed on the idea of an astronaut that keeps getting distracted by tasks 
+The theme for the Jam was "Just Get Started". My wife and I began to brainstorm, and spent 3 of the 10 days discussing what we would do. We landed on the idea of an astronaut that keeps getting distracted by tasks on his way to actually start his mission. 
 
-## Approach
+## Initial Design
+
+We decided that we wanted this little astronaut to be woken up by an AI stating something along the lines of "Good morning, please get to the console to begin our mission. Oh and captain...dont dawdle." 
 
 ## Hardest Decision
 ```gdscript
@@ -22,5 +24,6 @@ if Input.is_action_just_pressed("jump") and is_on_floor():
    ```
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzczMjQxMSw5OTEzNzM5ODNdfQ==
+eyJoaXN0b3J5IjpbLTkzNDMxNjM3LC02NTM3MzI0MTEsOTkxMz
+czOTgzXX0=
 -->
