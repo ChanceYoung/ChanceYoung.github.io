@@ -35,7 +35,7 @@ At that point, we were three days into our 10-day deadline, and the itch to _act
 I messed around with mechanics until I got a neat little "weighted object" mechanic going, as well as sliding along a particular surface. Highlight the node structure of tilemap layers used to make the slippery nature togglable, the door connection points, etc. 
 
 ## The Mad Dash
-Unfortunately, we were running out of time. While my wife worked out some UI pieces, I started in on level design. I WISH I would have started with level design. Easily the hardest part to do. It is one thing to come up with some interesting mechanics, code them up, and get them working in a test space, but a whole other thing to make them work within the context of a real game space. deciding how to tell the player what to do was a challenge, as we were running out of time and couldn't begin to fathom implementing the dialogue system we had envisioned. A crud task list was devised, and I got task triggers and creation up and running. 
+Unfortunately, we were running out of time. While my wife worked out some UI pieces, I started in on level design. I WISH I would have started with level design. Easily the hardest part to do. It is one thing to come up with some interesting mechanics, code them up, and get them working in a test space, but a whole other thing to make them work within the context of a real game space. deciding how to tell the player what to do was a challenge, as we were running out of time and couldn't begin to fathom implementing the dialogue system we had envisioned. A crude task list was devised, and I got task triggers and creation up and running. 
 
 ## Conclusion
 
@@ -44,10 +44,10 @@ We ended up taking 183rd overall out of 1100+ entries, which I think is excellen
 - Everything takes more time than you think, even if you know what you're doing
 - Working on a team is both rewarding and stressful. It was a great opportunity to teach my wife some principles of the Godot Engine, as she had never used it before, nor ever really programmed anything. 
 - I have a hard time being okay with "good enough", and that might be why I struggle to finish other projects, because I know it can always be improved.
-- Fun is a subjective thing, but making the atmosphere in which it can occur has some tangible, objec
+- Fun is a subjective thing, but making the atmosphere in which it can occur has some tangible, achievable goals. 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA1MTE5NTksLTEwNTA2NzM0NzUsNj
+eyJoaXN0b3J5IjpbLTE5MDEzMDEyMjEsLTEwNTA2NzM0NzUsNj
 c0NzMxNDg2LC02NTM3MzI0MTEsOTkxMzczOTgzXX0=
 -->
