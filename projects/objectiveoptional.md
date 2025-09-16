@@ -4,8 +4,8 @@ permalink: /projects/objectiveoptional/
 thumb: /assets/images/generic-thumb.jpg
 summary: "How I scoped, built, and shipped my first finished game in 10 days."
 tags: [gamedev, godot]
-order: 10          # lower shows earlier in the list
-featured: true     # appears on the home page grid
+order: 10          
+featured: true    
 ---
 
 ## Context
@@ -23,13 +23,10 @@ We then started brainstorming tasks that would distract our poor astronaut from 
 
 At that point, it was 3 days into the 10 day deadline, so the itch to jump in got too strong. I began setting up a standard character scene within the Godot Game Engine. 
 
-## Hardest Decision
-```gdscript
-if Input.is_action_just_pressed("jump") and is_on_floor():
-    state = "jumping" 
-   ```
+## The Mad Dash
+
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NzMxNDg2LC02NTM3MzI0MTEsOTkxMz
-czOTgzXX0=
+eyJoaXN0b3J5IjpbLTEwNTA2NzM0NzUsNjc0NzMxNDg2LC02NT
+M3MzI0MTEsOTkxMzczOTgzXX0=
 -->
