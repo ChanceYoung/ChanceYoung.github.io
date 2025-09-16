@@ -2,7 +2,7 @@
 title: "Woocommerce Integration Version 1"
 thumb: /assets/images/generic-thumb.jpg
 summary: "An Ecommerce to ERP solution"
-tags: [C#, WooCommerce,]      
+tags: [C#, WooCommerce]      
 featured: true
 layout: default    
 ---
@@ -30,7 +30,7 @@ Although many of my core bachelors degree classes were in .NET Core, the Toolkit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTc4NzA5NiwtMTg0MDk0ODEwNiwtMT
+eyJoaXN0b3J5IjpbLTk1MjM3OTA1NCwtMTg0MDk0ODEwNiwtMT
 g2MDM5MDU0OSwtNTk3MTIwNjI0LC0xNTU2MTQyODIyLDE3NzAy
 Njc4Nl19
 -->
