@@ -15,18 +15,26 @@ The theme for the Jam was "Just Get Started". My wife and I began to brainstorm,
 
 ## Initial Design
 
-We decided that we wanted this little astronaut to be woken up by an AI stating something along the lines of "Good morning, please get to the console to begin our mission. Oh and captain...dont dawdle." This meant that we needed a dialogue system of some kind, so it went on the todo list. 
 
-We then started brainstorming tasks that would distract our poor astronaut from getting to his mission. We came up with the following list:
-- Getting a cup of Coffee
-- Repairing something in the ship
+We decided that our little astronaut should be woken up by the ship’s AI with a message along the lines of:
 
-At that point, it was 3 days into the 10 day deadline, so the itch to jump in got too strong. I began setting up a standard character scene within the Godot Game Engine. 
+> "Good morning. Please proceed to the console to begin our mission. Oh, and Captain... don’t dawdle."
 
-## The Mad Dash
+Naturally, this meant we’d need some sort of dialogue system—so it quickly found its way onto the to-do list.
+
+From there, we started brainstorming distractions that might keep our poor astronaut from heading straight to the mission. Here’s what we came up with:
+
+-   Getting a cup of coffee
+    
+-   Repairing something on the ship
+    
+
+At that point, we were three days into our 10-day deadline, and the itch to _actually start building_ got too strong to ignore. So, I jumped in and began setting up a standard character scene in the Godot Game Engine.
+
+
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA2NzM0NzUsNjc0NzMxNDg2LC02NT
-M3MzI0MTEsOTkxMzczOTgzXX0=
+eyJoaXN0b3J5IjpbLTE2MDc4ODk4NCwtMTA1MDY3MzQ3NSw2Nz
+Q3MzE0ODYsLTY1MzczMjQxMSw5OTEzNzM5ODNdfQ==
 -->
