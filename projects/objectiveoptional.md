@@ -31,10 +31,14 @@ From there, we started brainstorming distractions that might keep our poor astro
 
 At that point, we were three days into our 10-day deadline, and the itch to _actually start building_ got too strong to ignore. So, I jumped in and began setting up a standard character scene in the Godot Game Engine.
 
+## The Long, Winding Road
+I messed around with mechanics until I got a neat little "weighted object" mechanic going, as well as sliding along a particular surface. Highlight the node structure of tilemap layers used to make the slippery nature togglable
 
+## The Mad Dash
+Unfortunately
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc4ODk4NCwtMTA1MDY3MzQ3NSw2Nz
+eyJoaXN0b3J5IjpbMjAwMDQyNTM2MCwtMTA1MDY3MzQ3NSw2Nz
 Q3MzE0ODYsLTY1MzczMjQxMSw5OTEzNzM5ODNdfQ==
 -->
