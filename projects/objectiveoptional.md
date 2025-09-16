@@ -25,8 +25,8 @@ Naturally, this meant we’d need a **dialogue system**—so it immediately went
 
 From there, we brainstormed small tasks that could delay the player. Our initial list included:
 
-- ☕ Getting a cup of coffee  
-- 🔧 Repairing something on the ship
+- Getting a cup of coffee  
+- Repairing something on the ship
 
 At this point, we were already three days in—and the itch to *actually start building* got too strong. I jumped in and began setting up a **standard character scene** in the **Godot Game Engine**.
 
@@ -60,17 +60,17 @@ We ended up placing **183rd overall out of 1100+ entries**, which I think is pre
 
 Here’s what I learned:
 
-- 🕒 Everything takes more time than you think—even if you already know what you’re doing  
-- 🤝 Working on a team is both rewarding and stressful. It was a great chance to teach my wife some of the basics of Godot, programming, and game design  
-- 🎯 I struggle with accepting “good enough,” which might be why I’ve abandoned other projects in the past. Shipping something—even if it’s not perfect—feels incredible  
-- 🎮 Fun is subjective, but **designing the space where fun can happen** is a tangible and achievable goal
+- Everything takes more time than you think—even if you already know what you’re doing  
+- Working on a team is both rewarding and stressful. It was a great chance to teach my wife some of the basics of Godot, programming, and game design  
+- I struggle with accepting “good enough,” which might be why I’ve abandoned other projects in the past. Shipping something—even if it’s not perfect—feels incredible  
+- Fun is subjective, but **designing the space where fun can happen** is a tangible and achievable goal
 
 ---
 
 Want to try the game?  
-👉 [**Play Objective Optional on Itch.io**](https://kiriyai.itch.io/objective-optional)
+ [**Play Objective Optional on Itch.io**](https://kiriyai.itch.io/objective-optional)
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMTQwMjgzLC0xMDUwNjczNDc1LDY3ND
+eyJoaXN0b3J5IjpbMjE2MzMxOTgzLC0xMDUwNjczNDc1LDY3ND
 czMTQ4NiwtNjUzNzMyNDExLDk5MTM3Mzk4M119
 -->
