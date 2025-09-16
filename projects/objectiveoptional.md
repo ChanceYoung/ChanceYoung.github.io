@@ -32,13 +32,13 @@ From there, we started brainstorming distractions that might keep our poor astro
 At that point, we were three days into our 10-day deadline, and the itch to _actually start building_ got too strong to ignore. So, I jumped in and began setting up a standard character scene in the Godot Game Engine.
 
 ## The Long, Winding Road
-I messed around with mechanics until I got a neat little "weighted object" mechanic going, as well as sliding along a particular surface. Highlight the node structure of tilemap layers used to make the slippery nature togglable
+I messed around with mechanics until I got a neat little "weighted object" mechanic going, as well as sliding along a particular surface. Highlight the node structure of tilemap layers used to make the slippery nature togglable, the door connection points, etc. 
 
 ## The Mad Dash
-Unfortunately, we were running out of time. While my wife worked out some UI pieces, I started in on level design. I WISH I would have started with level design. Easily the hardest part to do. It is one thing to come up with some interesting mechanics, code them up, and get them working in a test space, but a 
+Unfortunately, we were running out of time. While my wife worked out some UI pieces, I started in on level design. I WISH I would have started with level design. Easily the hardest part to do. It is one thing to come up with some interesting mechanics, code them up, and get them working in a test space, but a whole other thing to make them work within the context of a real game space. deciding how to tell the player what to do was a challenge, as we were running out of time and couldn't begin to fathom implementing the dialogue system we had envisioned. A crud task list was devised, and I got task triggers and creation up and running. 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTM1OTg0OCwtMTA1MDY3MzQ3NSw2Nz
+eyJoaXN0b3J5IjpbMTM4Njc4Mjk4MiwtMTA1MDY3MzQ3NSw2Nz
 Q3MzE0ODYsLTY1MzczMjQxMSw5OTEzNzM5ODNdfQ==
 -->
