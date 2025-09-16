@@ -6,9 +6,9 @@ tags: [C#, WooCommerce,]
 featured: true
 layout: default    
 ---
-#### Project Span: May-June 2023
 
 ## The Problem
+#### Project Span: May-June 2023
 Our team was asked to connect the power of our WooCommerce Wordpress website with our ERP system. 
 
 ## Technologies 
@@ -33,6 +33,6 @@ We chose to have the webhook trigger on "Completed" because we were using a 3PL 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzkxOTg2MiwtMTg2MDM5MDU0OSwtNT
-k3MTIwNjI0LC0xNTU2MTQyODIyLDE3NzAyNjc4Nl19
+eyJoaXN0b3J5IjpbLTE4NDA5NDgxMDYsLTE4NjAzOTA1NDksLT
+U5NzEyMDYyNCwtMTU1NjE0MjgyMiwxNzcwMjY3ODZdfQ==
 -->
