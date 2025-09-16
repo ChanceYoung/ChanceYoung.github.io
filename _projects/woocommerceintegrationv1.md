@@ -29,8 +29,8 @@ Although primarily interacted through by using the provided ORM, some data and c
 #### WooCommerce
 I had never worked with WooCommerce before this project. I found it very straightforward to set up a Webhook, and the pre-built trigger topics were extensive enough to cover my use case perfectly. I also think they have excellent documentation for their [Rest API](https://woocommerce.github.io/woocommerce-rest-api-docs/) which allowed me to understand the footprint of the JSON objects used by WooCommerce.
 
-### What Worked
-### What Didn't 
+### What Worked Well
+### What Didn't Work Well
 
 
 
@@ -38,7 +38,7 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzExNDIwNjYsLTE4NDA5NDgxMDYsLT
-E4NjAzOTA1NDksLTU5NzEyMDYyNCwtMTU1NjE0MjgyMiwxNzcw
-MjY3ODZdfQ==
+eyJoaXN0b3J5IjpbMTQwOTI3MDc5NywtMTg0MDk0ODEwNiwtMT
+g2MDM5MDU0OSwtNTk3MTIwNjI0LC0xNTU2MTQyODIyLDE3NzAy
+Njc4Nl19
 -->
