@@ -32,7 +32,7 @@ At this point, we were already three days in—and the itch to *actually start b
 
 ## The Long, Winding Road
 
-I spent a chunk of time experimenting with mechanics until I landed on a fun little **"weighted object"** system and a **slippery surface** mechanic. I used a layered `TileMap` node structure to toggle surfaces between normal and slippery, allowing for dynamic movement challenges.
+I spent a chunk of time experimenting with mechanics until I landed on a fun little **"weighted object"** system and a **slippery surface** mechanic. I used a collection of `TileMapLayer` nodes to toggle surfaces between normal and slippery, allowing for dynamic movement challenges as well as.
 
 Additionally, I set up:
 - Door connection points for navigation  
@@ -71,6 +71,6 @@ Want to try the game?
  [**Play Objective Optional on Itch.io**](https://kiriyai.itch.io/objective-optional)
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MzMxOTgzLC0xMDUwNjczNDc1LDY3ND
-czMTQ4NiwtNjUzNzMyNDExLDk5MTM3Mzk4M119
+eyJoaXN0b3J5IjpbLTM4Njc5OTAyMSwtMTA1MDY3MzQ3NSw2Nz
+Q3MzE0ODYsLTY1MzczMjQxMSw5OTEzNzM5ODNdfQ==
 -->
