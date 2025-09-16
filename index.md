@@ -10,10 +10,9 @@ Feel free to explore my project summaries below. If my work resonates with you a
 
 ## Featured Projects
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-{% assign items = site.pages | sort: "order" %}
-{% assign shown = 0 %}
+{% assign items = site.pages %}
 {% for p in items %}
-  {% if p.path contains 'projects/' and p.featured == true and shown < 6 %}
+  {% if p.path contains 'projects/' and p.featured == true %}
     <div class="col">
       <a class="card h-100 text-decoration-none text-light" href="{{ p.url | relative_url }}">
         <img class="card-img-top" src="{{ p.thumb | default: '/assets/images/placeholder.jpg' | relative_url }}" alt="">
@@ -23,9 +22,7 @@ Feel free to explore my project summaries below. If my work resonates with you a
         </div>
       </a>
     </div>
-    {% assign shown = shown | plus: 1 %}
   {% endif %}
 {% endfor %}
 </div>
 
-<!-- <p class="mt-3"><a class="btn btn-outline-light" href="{{ '/projects/' | relative_url }}">View all projects</a></p> -->
