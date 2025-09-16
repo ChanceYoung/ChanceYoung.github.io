@@ -14,7 +14,7 @@ Once again we visited the idea with the integration toolkit provided by our ERP 
 graph LR
 A(WooCommerce Order marked Completed) -- Webhook Payload --> B(WebOrderAPI) -- Transformed Order Information --> C(Infor VISUAL)
 ```
-We chose to have the webhook trigger on "Completed" because we were using a 3PL company in order to actually fulfill our orders. The orders being created in our ERP were to mirror the actual revenue and cos
+We chose to have the webhook trigger on "Completed" because we were using a 3PL company in order to actually fulfill our orders. The orders being created in our ERP were to mirror the actual cost and inventory flow out of our system. 
 
 ## Technologies 
 
@@ -22,6 +22,6 @@ We chose to have the webhook trigger on "Completed" because we were using a 3PL 
 I had never worked with WooCommerce before this project. I found it very straightforward to set up a Webhook, and the pre-built trigger topics were extensive enough to cover my use case perfectly.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU3ODY1NiwtMTg2MDM5MDU0OSwtNT
+eyJoaXN0b3J5IjpbMTAwMDM4ODUxMiwtMTg2MDM5MDU0OSwtNT
 k3MTIwNjI0LC0xNTU2MTQyODIyLDE3NzAyNjc4Nl19
 -->
