@@ -10,9 +10,13 @@ layout: default
 Our team was asked to connect the power of our WooCommerce Wordpress website with our ERP system. 
 ## The Solution
 Once again we visited the idea with the integration toolkit provided by our ERP system. This time, however, instead of using the binaries that allowed me to engage with Inventory documents, I was able to create Full on Customer Orders. The 
+```mermaid
+graph LR
+A(WooCommerce Order marked Completed)) -- Webhook Payload --> B(())
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzEyMDYyNCwtMTU1NjE0MjgyMiwxNz
-cwMjY3ODZdfQ==
+eyJoaXN0b3J5IjpbMzczNTk4MTMwLC01OTcxMjA2MjQsLTE1NT
+YxNDI4MjIsMTc3MDI2Nzg2XX0=
 -->
