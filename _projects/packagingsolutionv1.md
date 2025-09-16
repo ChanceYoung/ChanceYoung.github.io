@@ -13,13 +13,12 @@ Our team was asked if there was a way to reduce the human error in manual entry 
 
 ### Our Solution
 The ERP system we used provided an integration toolkit written in .NET that used an ORM library in order to create business documents. After a little bit of research I discovered I could use it to create transactions within our ERP, if given all the information about the Work Order. This would found the basis of our Backend functionality. In an attempt to kill two birds with one stone, I also discovered [Label LIVE](https://label.live/), a label design and printing software, which could be sent standard HTTP requests in order to print out labels. This lead to the basis of our Frontend design, which would end up orchestrating the sending of a transaction request to our backend, as well as retrieving information and requesting printing from our Label LIVE software. 
-## The Backend
-### What Worked
+### What Worked well
 ### What Didn't 
-## The Frontend
-### What Worked
-### What Didn't 
+### The Backend
+### The Frontend
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTgwNDc2N119
+eyJoaXN0b3J5IjpbLTExOTk4NTAxNTddfQ==
 -->
