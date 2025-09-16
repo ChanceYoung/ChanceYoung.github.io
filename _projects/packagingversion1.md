@@ -6,9 +6,10 @@ tags: [Node, React]
 featured: true
 layout: default    
 ---
-
+## The Problem
+We have a problem with our packaging process. It mostly involves handwritten details not being legible enough to translate nicely into ERP input.  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIzMjY4NzldfQ==
+eyJoaXN0b3J5IjpbLTg3NzMxNDQ5Nl19
 -->
