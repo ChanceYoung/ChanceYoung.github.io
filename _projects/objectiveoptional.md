@@ -1,11 +1,11 @@
 ---
 title: "Shipping My First Finished Game (10-Day Jam)"
-permalink: /projects/objectiveoptional/
 thumb: /assets/images/generic-thumb.jpg
 summary: "How I scoped, built, and shipped my first finished game in 10 days."
 tags: [gamedev, godot]
 order: 10          
-featured: true    
+featured: true
+layout: default    
 ---
 
 ## Context
