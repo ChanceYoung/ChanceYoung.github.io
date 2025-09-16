@@ -22,8 +22,8 @@ We chose to have the webhook trigger on "Completed" because we were using a 3PL 
 ## The Backend
 ### .NET Framework 4.8 hosted via IIS
 Although many of my core bachelors degree classes were in .NET Core, the Toolkit used to communicate with our ERP system only supports up to .NET Framework 4.8. After *a lot* of Google research, consulting the Toolkit documentation, and a little bit of idea bouncing on ChatGPT, I was finally able to piece together a working monolithic project that I could host on our on-premises IIS server. 
-### Microsoft Sql Server
-Although primarily interacted through by using the Toolkit 
+### Microsoft SQL Server
+Although primarily interacted through by using the provided ORM, some data and checks were retrieved with direct queries to the on-prem Microsoft SQL Server using MSSQL.
 
 ## External Connections
 ### WooCommerce
@@ -36,7 +36,7 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI5MTU4ODYsLTE4NDA5NDgxMDYsLT
-E4NjAzOTA1NDksLTU5NzEyMDYyNCwtMTU1NjE0MjgyMiwxNzcw
-MjY3ODZdfQ==
+eyJoaXN0b3J5IjpbNDA5ODk3NDQ4LC0xODQwOTQ4MTA2LC0xOD
+YwMzkwNTQ5LC01OTcxMjA2MjQsLTE1NTYxNDI4MjIsMTc3MDI2
+Nzg2XX0=
 -->
