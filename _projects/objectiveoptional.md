@@ -1,4 +1,3 @@
-
 ---
 title: "Shipping My First Finished Game (10-Day Jam)"
 permalink: /projects/objectiveoptional/

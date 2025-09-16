@@ -6,7 +6,7 @@ title: Home
 
 I’m a software engineer, and this site is focused on improving how I explain my design approach and thought process when building projects. My passion for video games is what first drew me into software engineering, and over time I’ve had the chance to explore many facets of the field — from game development to dev operations to lightweight scripting.
 
-Feel free to explore my project summaries below. If my work resonates with you and you think I could be a valuable addition to your team, you can download my resume [here](/assets/downloadables/ChanceYoungResume%209_3_25.pdf) or reach me at chanceyoungwebdev@gmail.com.
+Feel free to explore my project summaries below. If my work resonates with you and you think I could be a valuable addition to your team, you can download my resume [here](/assets/downloadables/ChanceYoungResume%209_3_25.pdf) or reach me at <chanceyoungwebdev@gmail.com>.
 
 ## Featured Projects
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
