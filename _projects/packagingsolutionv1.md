@@ -6,7 +6,7 @@ tags: [Node, React, C#]
 featured: true
 layout: default    
 ---
-#### Project Span: September-
+#### Project Span: September 5-13 2023
 ## The Problem
 Our team was asked if there was a way to reduce the human error in manual entry of a serial number into our ERP system. See, they were manually entering serial numbers into the system, which at its peak was over 300 guns per day. Thats a LOT of room for human error to creep in. A poorly written letter here, and 8 that looks like a B there, all leading to transactional issues and lost company time.
 
@@ -20,5 +20,5 @@ The ERP system we used provided an integration toolkit written in .NET that used
 ### What Didn't 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDc4Mjg1XX0=
+eyJoaXN0b3J5IjpbLTUyNTUyOTM0NV19
 -->
