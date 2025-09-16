@@ -10,15 +10,14 @@ Feel free to explore my project summaries below. If my work resonates with you a
 
 ## Featured Projects
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-{% assign items = site.pages %}
-{% for p in items %}
-  {% if p.path contains 'projects/' and p.featured == true %}
+{% for project in site.projects %}
+  {% if project.featured == true %}
     <div class="col">
-      <a class="card h-100 text-decoration-none text-light" href="{{ p.url | relative_url }}">
-        <img class="card-img-top" src="{{ p.thumb | default: '/assets/images/placeholder.jpg' | relative_url }}" alt="">
+      <a class="card h-100 text-decoration-none text-light" href="{{ project.url | relative_url }}">
+        <img class="card-img-top" src="{{ project.thumb | default: '/assets/images/placeholder.jpg' | relative_url }}" alt="">
         <div class="card-body">
-          <h5 class="card-title mb-1">{{ p.title }}</h5>
-          {% if p.summary %}<p class="card-text text-secondary small">{{ p.summary }}</p>{% endif %}
+          <h5 class="card-title mb-1">{{ project.title }}</h5>
+          {% if project.summary %}<p class="card-text text-secondary small">{{ project.summary }}</p>{% endif %}
         </div>
       </a>
     </div>
