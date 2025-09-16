@@ -14,7 +14,7 @@ Our team was asked to connect the power of our WooCommerce Wordpress website wit
 I had never worked with WooCommerce before this project. I found it very straightforward to set up a Webhook, and the pre-built trigger topics were extensive enough to cover my use case perfectly. I also think they have excellent documentation for their [Rest API](https://woocommerce.github.io/woocommerce-rest-api-docs/) which allowed me to understand the footprint of the JSON objects used by WooCommerce.
 
 ### .NET hosted via IIS
-Althought my primary 
+Althought many of my core classes were in .NET Core, the Toolkit used to communicate with our ERP system only supports up to .NET Framework 4.8. After *a lot* of Google research and usage of ChatGPT, I fin
 
 ## The Solution
 Once again we visited the idea with the integration toolkit provided by our ERP system. This time, however, instead of using the binaries that allowed me to engage with Inventory documents, I was able to create Full on Customer Orders. The data flow went as follows:
@@ -30,6 +30,6 @@ We chose to have the webhook trigger on "Completed" because we were using a 3PL 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NDk2ODUsLTE4NjAzOTA1NDksLTU5Nz
-EyMDYyNCwtMTU1NjE0MjgyMiwxNzcwMjY3ODZdfQ==
+eyJoaXN0b3J5IjpbLTE5OTE0OTQ4MjIsLTE4NjAzOTA1NDksLT
+U5NzEyMDYyNCwtMTU1NjE0MjgyMiwxNzcwMjY3ODZdfQ==
 -->
