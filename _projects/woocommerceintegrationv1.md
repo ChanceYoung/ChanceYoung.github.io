@@ -6,6 +6,7 @@ tags: [C#, WooCommerce,]
 featured: true
 layout: default    
 ---
+#### Project Date: 
 ## The Problem
 Our team was asked to connect the power of our WooCommerce Wordpress website with our ERP system. 
 
@@ -14,7 +15,7 @@ Our team was asked to connect the power of our WooCommerce Wordpress website wit
 I had never worked with WooCommerce before this project. I found it very straightforward to set up a Webhook, and the pre-built trigger topics were extensive enough to cover my use case perfectly. I also think they have excellent documentation for their [Rest API](https://woocommerce.github.io/woocommerce-rest-api-docs/) which allowed me to understand the footprint of the JSON objects used by WooCommerce.
 
 ### .NET Framework 4.8 hosted via IIS
-Although many of my core bachelors degree classes were in .NET Core, the Toolkit used to communicate with our ERP system only supports up to .NET Framework 4.8. After *a lot* of Google research, consulting the Toolkit documentation, and a little bit of idea bouncing on Chat GPT, I was finally able to piece together a working monolithic project that I could host on our on-premises IIS server. 
+Although many of my core bachelors degree classes were in .NET Core, the Toolkit used to communicate with our ERP system only supports up to .NET Framework 4.8. After *a lot* of Google research, consulting the Toolkit documentation, and a little bit of idea bouncing on ChatGPT, I was finally able to piece together a working monolithic project that I could host on our on-premises IIS server. 
 
 ### 
 ## The Solution
@@ -31,6 +32,6 @@ We chose to have the webhook trigger on "Completed" because we were using a 3PL 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ5OTMzOTQsLTE4NjAzOTA1NDksLT
-U5NzEyMDYyNCwtMTU1NjE0MjgyMiwxNzcwMjY3ODZdfQ==
+eyJoaXN0b3J5IjpbLTk1ODY1MjU1NywtMTg2MDM5MDU0OSwtNT
+k3MTIwNjI0LC0xNTU2MTQyODIyLDE3NzAyNjc4Nl19
 -->
