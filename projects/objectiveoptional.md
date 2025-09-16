@@ -35,10 +35,10 @@ At that point, we were three days into our 10-day deadline, and the itch to _act
 I messed around with mechanics until I got a neat little "weighted object" mechanic going, as well as sliding along a particular surface. Highlight the node structure of tilemap layers used to make the slippery nature togglable
 
 ## The Mad Dash
-Unfortunately
+Unfortunately, we were running out of time. While my wife worked out some UI pieces, I started in on level design. I WISH I would have started with level design. Easily the hardest part to do. It is one thing to come up with some interesting mechanics, code them up, and get them working in a test space, but a 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDQyNTM2MCwtMTA1MDY3MzQ3NSw2Nz
+eyJoaXN0b3J5IjpbMjA0MTM1OTg0OCwtMTA1MDY3MzQ3NSw2Nz
 Q3MzE0ODYsLTY1MzczMjQxMSw5OTEzNzM5ODNdfQ==
 -->
