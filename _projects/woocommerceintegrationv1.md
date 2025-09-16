@@ -19,7 +19,7 @@ A(WooCommerce Order marked Completed) -- Webhook Payload --> B(WebOrderAPI) -- T
 ```
 We chose to have the webhook trigger on "Completed" because we were using a 3PL company in order to actually fulfill our orders. The orders being created in our ERP were to mirror the actual cost and inventory flow out of 3PL. When the 3PL company would complete an order, their system would mark it "Completed" in our WooCommerce store.   
 
-## Technologies 
+## The Backend
 ### WooCommerce
 I had never worked with WooCommerce before this project. I found it very straightforward to set up a Webhook, and the pre-built trigger topics were extensive enough to cover my use case perfectly. I also think they have excellent documentation for their [Rest API](https://woocommerce.github.io/woocommerce-rest-api-docs/) which allowed me to understand the footprint of the JSON objects used by WooCommerce.
 
@@ -30,7 +30,7 @@ Although many of my core bachelors degree classes were in .NET Core, the Toolkit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjM3OTA1NCwtMTg0MDk0ODEwNiwtMT
+eyJoaXN0b3J5IjpbMTk2MjQwNTc5NSwtMTg0MDk0ODEwNiwtMT
 g2MDM5MDU0OSwtNTk3MTIwNjI0LC0xNTU2MTQyODIyLDE3NzAy
 Njc4Nl19
 -->
