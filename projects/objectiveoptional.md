@@ -37,8 +37,15 @@ I messed around with mechanics until I got a neat little "weighted object" mecha
 ## The Mad Dash
 Unfortunately, we were running out of time. While my wife worked out some UI pieces, I started in on level design. I WISH I would have started with level design. Easily the hardest part to do. It is one thing to come up with some interesting mechanics, code them up, and get them working in a test space, but a whole other thing to make them work within the context of a real game space. deciding how to tell the player what to do was a challenge, as we were running out of time and couldn't begin to fathom implementing the dialogue system we had envisioned. A crud task list was devised, and I got task triggers and creation up and running. 
 
+## Conclusion
+
+We ended up taking 183rd overall out of 1100+ entries, which I think is excellent considering our very novice skills in this realm. What I learned was:
+
+- Everything takes more time than you think
+- 
+
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Njc4Mjk4MiwtMTA1MDY3MzQ3NSw2Nz
-Q3MzE0ODYsLTY1MzczMjQxMSw5OTEzNzM5ODNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTU0ODk1MDgsLTEwNTA2NzM0NzUsNj
+c0NzMxNDg2LC02NTM3MzI0MTEsOTkxMzczOTgzXX0=
 -->
