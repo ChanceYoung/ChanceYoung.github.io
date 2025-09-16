@@ -1,9 +1,8 @@
 ---
 title: "Firearms Packaging Solution Version 1"
 thumb: /assets/images/generic-thumb.jpg
-summary: "How I scoped, built, and shipped my first finished game in 10 days."
-tags: [gamedev, godot]
-order: 10          
+summary: "A creative solution to a common problem"
+tags: [Node, React]      
 featured: true
 layout: default    
 ---
@@ -11,5 +10,5 @@ layout: default
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxNzc2MTIwXX0=
+eyJoaXN0b3J5IjpbLTE3MjIzMjY4NzldfQ==
 -->
