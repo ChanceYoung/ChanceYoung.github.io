@@ -1,8 +1,8 @@
 ---
 title: "Firearms Packaging Solution Version 1"
 thumb: /assets/images/generic-thumb.jpg
-summary: "A creative solution to a common problem"
-tags: [Node, React]      
+summary: "A  web application."
+tags: [Node, React, C#]      
 featured: true
 layout: default    
 ---
@@ -19,5 +19,5 @@ The ERP system we used provided an integration toolkit written in .NET that used
 ### What Didn't 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODMwMjgwMl19
+eyJoaXN0b3J5IjpbLTIwODUzMzE5ODBdfQ==
 -->
