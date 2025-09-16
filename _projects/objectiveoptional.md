@@ -2,7 +2,7 @@
 title: "Shipping My First Finished Game (10-Day Jam)"
 thumb: /assets/images/generic-thumb.jpg
 summary: "How I scoped, built, and shipped my first finished game in 10 days."
-tags: [gamedev, godot] 
+tags: [gamedev, godot, gdscript] 
 featured: true
 layout: default    
 ---
@@ -26,7 +26,7 @@ From there, we brainstormed small tasks that could delay the player. Our initial
 - Getting a cup of coffee  
 - Repairing something on the ship
 
-At this point, we were already three days in—and the itch to *actually start building* got too strong. I jumped in and began setting up a **standard character scene** in the **Godot Game Engine**.
+At this point, we were already four days in—and the itch to *actually start building* got too strong. I jumped in and began setting up a **standard character scene** in the **Godot Game Engine**.
 
 ## The Long, Winding Road
 
@@ -69,7 +69,7 @@ Want to try the game?
  [**Play Objective Optional on Itch.io**](https://kiriyai.itch.io/objective-optional)
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjMzODYwMSwxODg5NDAzNzgxLC0xMD
+eyJoaXN0b3J5IjpbLTQ0OTE1NzgyNywxODg5NDAzNzgxLC0xMD
 UwNjczNDc1LDY3NDczMTQ4NiwtNjUzNzMyNDExLDk5MTM3Mzk4
 M119
 -->
