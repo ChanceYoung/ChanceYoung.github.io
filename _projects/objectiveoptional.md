@@ -8,7 +8,7 @@ layout: default
 ---
 
 ## Project Overview
-
+#### Project Span: July 11th 2025 to July 20th 2025 
 [*Objective Optional*](https://kiriyai.itch.io/objective-optional) was created for the [2025 Shovel Jam](https://itch.io/jam/shovel-jam-2025) and marks the first published game by **Fuzzy Stego Studio**.
 
 The theme for the jam was **"Just Get Started."** My wife and I spent the first three of the ten days brainstorming what we wanted to make. We landed on the idea of a little astronaut who keeps getting distracted by odd jobs on his way to finally begin his mission.
@@ -69,7 +69,7 @@ Want to try the game?
  [**Play Objective Optional on Itch.io**](https://kiriyai.itch.io/objective-optional)
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQzMDQwNDcsMTg4OTQwMzc4MSwtMT
-A1MDY3MzQ3NSw2NzQ3MzE0ODYsLTY1MzczMjQxMSw5OTEzNzM5
-ODNdfQ==
+eyJoaXN0b3J5IjpbMTE2MjMzODYwMSwxODg5NDAzNzgxLC0xMD
+UwNjczNDc1LDY3NDczMTQ4NiwtNjUzNzMyNDExLDk5MTM3Mzk4
+M119
 -->
