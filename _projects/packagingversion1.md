@@ -7,9 +7,9 @@ featured: true
 layout: default    
 ---
 ## The Problem
-We have a problem with our packaging process. It mostly involves handwritten details not being legible enough to translate nicely into ERP input.  
+Our team was asked if there was a way to reduce the human error in manual entry of a serial number into our system.  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzMxNDQ5Nl19
+eyJoaXN0b3J5IjpbOTM4NDEyNDc5XX0=
 -->
