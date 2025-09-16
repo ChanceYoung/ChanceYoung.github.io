@@ -7,7 +7,7 @@ featured: true
 layout: default    
 ---
 
-## Context
+## Project Overview
 
 [*Objective Optional*](https://kiriyai.itch.io/objective-optional) was created for the [2025 Shovel Jam](https://itch.io/jam/shovel-jam-2025) and marks the first published game by **Fuzzy Stego Studio**.
 
@@ -69,7 +69,7 @@ Want to try the game?
  [**Play Objective Optional on Itch.io**](https://kiriyai.itch.io/objective-optional)
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MjE0OTQ0LDE4ODk0MDM3ODEsLTEwNT
-A2NzM0NzUsNjc0NzMxNDg2LC02NTM3MzI0MTEsOTkxMzczOTgz
-XX0=
+eyJoaXN0b3J5IjpbLTExNzQzMDQwNDcsMTg4OTQwMzc4MSwtMT
+A1MDY3MzQ3NSw2NzQ3MzE0ODYsLTY1MzczMjQxMSw5OTEzNzM5
+ODNdfQ==
 -->
