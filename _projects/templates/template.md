@@ -1,5 +1,5 @@
 ---
-title: "Shipping My First Finished Game (10-Day Jam)"
+title: ""
 thumb: /assets/images/generic-thumb.jpg
 summary: ""
 tags: [] 
@@ -73,5 +73,5 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczOTc2NzYwLC04NTgyMTQxNTddfQ==
+eyJoaXN0b3J5IjpbLTk4MDc5MywtODU4MjE0MTU3XX0=
 -->
