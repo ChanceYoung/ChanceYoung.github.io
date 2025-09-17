@@ -23,14 +23,50 @@
             type="image/svg+xml"
         />
     </head>
-    <script type="module">
-        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs'
-        mermaid.initialize({ startOnLoad: true })
-        document
-            .querySelectorAll('pre > code.language-mermaid')
-            .forEach(codeBlock => {
-                codeBlock.parentElement.outerHTML = `<pre class="mermaid">${codeBlock.textContent}</pre>`
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <style>
+        /* Hide raw blocks to avoid the code-box flash before render */
+        pre code.language-mermaid,
+        .highlight code.language-mermaid {
+            display: none;
+        }
+    </style>
+    <script>
+        ;(function () {
+            const prefersDark = window.matchMedia?.(
+                '(prefers-color-scheme: dark)'
+            ).matches
+            mermaid.initialize({
+                startOnLoad: false,
+                theme: prefersDark ? 'dark' : 'default',
             })
+
+            function convertAndRender() {
+                // Works whether Rouge wrapped it (<div class="highlight"><pre><code…>) or not
+                const blocks = document.querySelectorAll(
+                    'code.language-mermaid, pre code.language-mermaid, .highlight code.language-mermaid'
+                )
+
+                blocks.forEach(code => {
+                    const graph = code.textContent
+                    const container = document.createElement('div')
+                    container.className = 'mermaid'
+                    container.textContent = graph
+
+                    const pre = code.closest('pre')
+                    const highlight = code.closest('.highlight')
+                    ;(highlight || pre || code).replaceWith(container)
+                })
+
+                mermaid.run({ querySelector: '.mermaid' })
+            }
+
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', convertAndRender)
+            } else {
+                convertAndRender()
+            }
+        })()
     </script>
     <body class="bg-dark text-light">
         <!-- Navbar -->
@@ -46,12 +82,12 @@
                 >
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
-                <img
-                    src="/assets/images/cylogo.svg"
-                    alt="CY.dev logo"
-                    style="width: 36px"
-                />
+                <a class="nav-link" href="{{ '/' | relative_url }}">
+                    <img
+                        src="/assets/images/cylogo.svg"
+                        alt="CY.dev logo"
+                        style="width: 64px"
+                /></a>
 
                 <div id="navMain" class="collapse navbar-collapse">
                     <ul class="navbar-nav ms-auto">
