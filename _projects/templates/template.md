@@ -1,3 +1,11 @@
+---
+title: "Shipping My First Finished Game (10-Day Jam)"
+thumb: /assets/images/generic-thumb.jpg
+summary: ""
+tags: [] 
+featured: false
+layout: default    
+---
 ## Project Overview
 
 -   **Span:** Month Day – Month Day, Year
@@ -65,5 +73,5 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODIxNDE1N119
+eyJoaXN0b3J5IjpbNTczOTc2NzYwLC04NTgyMTQxNTddfQ==
 -->
