@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 # Hello there, I’m Chance.
