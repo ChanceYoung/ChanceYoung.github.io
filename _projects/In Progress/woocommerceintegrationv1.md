@@ -3,7 +3,7 @@ title: "Woocommerce Integration Version 1"
 thumb: /assets/images/generic-thumb.jpg
 summary: "An Ecommerce to ERP solution"
 tags: [C#, WooCommerce]      
-featured: true
+featured: false
 layout: default    
 ---
 ## Project Overview
@@ -38,5 +38,5 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTI3MDc5N119
+eyJoaXN0b3J5IjpbLTE4NDU4NzQ0MzYsMTQwOTI3MDc5N119
 -->
