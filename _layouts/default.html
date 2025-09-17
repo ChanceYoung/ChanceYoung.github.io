@@ -23,6 +23,7 @@
             type="image/svg+xml"
         />
     </head>
+
     <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
     <style>
         /* Hide raw blocks to avoid the code-box flash before render */
@@ -32,41 +33,32 @@
         }
     </style>
     <script>
-        ;(function () {
-            const prefersDark = window.matchMedia?.(
-                '(prefers-color-scheme: dark)'
-            ).matches
-            mermaid.initialize({
-                startOnLoad: false,
-                theme: prefersDark ? 'dark' : 'default',
+        mermaid.initialize({
+            startOnLoad: false,
+            theme: 'default', // <- always light
+        })
+
+        function convertAndRender() {
+            const blocks = document.querySelectorAll(
+                'code.language-mermaid, pre code.language-mermaid, .highlight code.language-mermaid'
+            )
+            blocks.forEach(code => {
+                const graph = code.textContent
+                const container = document.createElement('div')
+                container.className = 'mermaid'
+                container.textContent = graph
+                const pre = code.closest('pre')
+                const highlight = code.closest('.highlight')
+                ;(highlight || pre || code).replaceWith(container)
             })
+            mermaid.run({ querySelector: '.mermaid' })
+        }
 
-            function convertAndRender() {
-                // Works whether Rouge wrapped it (<div class="highlight"><pre><code…>) or not
-                const blocks = document.querySelectorAll(
-                    'code.language-mermaid, pre code.language-mermaid, .highlight code.language-mermaid'
-                )
-
-                blocks.forEach(code => {
-                    const graph = code.textContent
-                    const container = document.createElement('div')
-                    container.className = 'mermaid'
-                    container.textContent = graph
-
-                    const pre = code.closest('pre')
-                    const highlight = code.closest('.highlight')
-                    ;(highlight || pre || code).replaceWith(container)
-                })
-
-                mermaid.run({ querySelector: '.mermaid' })
-            }
-
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', convertAndRender)
-            } else {
-                convertAndRender()
-            }
-        })()
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', convertAndRender)
+        } else {
+            convertAndRender()
+        }
     </script>
     <body class="bg-dark text-light">
         <!-- Navbar -->
