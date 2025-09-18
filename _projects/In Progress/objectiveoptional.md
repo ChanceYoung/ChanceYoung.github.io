@@ -3,7 +3,7 @@ title: "Shipping My First Finished Game (10-Day Jam)"
 thumb: /assets/images/generic-thumb.jpg
 summary: "How I scoped, built, and shipped my first finished game in 10 days."
 tags: [gamedev, godot, gdscript] 
-featured: false 
+featured: true 
 layout: default    
 ---
 
@@ -69,5 +69,6 @@ Want to try the game?
  [**Play Objective Optional on Itch.io**](https://kiriyai.itch.io/objective-optional)
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MTE0MDQsLTQ0OTE1NzgyN119
+eyJoaXN0b3J5IjpbNDg4NTUzNDEzLDYwODExNDA0LC00NDkxNT
+c4MjddfQ==
 -->
