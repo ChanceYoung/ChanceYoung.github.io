@@ -26,7 +26,4 @@ Feel free to explore my project summaries below. If my work resonates with you a
 {% endfor %}
 </div>
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/chanceyoungwebdev/30min" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+
