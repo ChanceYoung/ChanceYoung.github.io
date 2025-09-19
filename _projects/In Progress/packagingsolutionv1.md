@@ -23,9 +23,10 @@ The ERP system we used provided an integration toolkit written in .NET that used
 
 -   **Span:** September 5 – September 13, 2023
     
--   **Context:** The packaging team n
+-   **Context:** The packaging team needed to stop entering Serial Numbers Manually.
     
--   **Impact (TL;DR):** 2–3 bullets with measurable results (speedup, error reduction, adoption, etc.).
+-   **Impact:**
+* 
     
 
 ## The Problem
@@ -86,6 +87,6 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjYwNjc4OSwxMzE1MDg0ODk2LC0xNz
-Q2Njg4ODY2LC0xMTk5ODUwMTU3XX0=
+eyJoaXN0b3J5IjpbLTEyMzQ0Nzc0ODYsMTMxNTA4NDg5NiwtMT
+c0NjY4ODg2NiwtMTE5OTg1MDE1N119
 -->
