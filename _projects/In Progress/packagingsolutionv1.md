@@ -23,7 +23,7 @@ The ERP system we used provided an integration toolkit written in .NET that used
 
 -   **Span:** September 5 – September 13, 2023
     
--   **Context:** Brief sentence on what the business/client/team needed.
+-   **Context:** The packaging team n
     
 -   **Impact (TL;DR):** 2–3 bullets with measurable results (speedup, error reduction, adoption, etc.).
     
@@ -86,6 +86,6 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTA4NDg5NiwtMTc0NjY4ODg2NiwtMT
-E5OTg1MDE1N119
+eyJoaXN0b3J5IjpbMjEyNjYwNjc4OSwxMzE1MDg0ODk2LC0xNz
+Q2Njg4ODY2LC0xMTk5ODUwMTU3XX0=
 -->
