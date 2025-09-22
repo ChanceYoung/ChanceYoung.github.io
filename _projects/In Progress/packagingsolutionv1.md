@@ -32,7 +32,7 @@ The ERP system we used provided an integration toolkit written in .NET that used
 
 ## The Problem
 
-The packaging and r
+The Final Assembly and Packaging team was receiving new firearms into our inventory while entering in Serial Numbers manually. We 
 Describe the issue you were solving in clear terms. Who was affected, and what were the stakes?
 
 ## Constraints & Requirements
@@ -89,6 +89,6 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mjg2NTY1NywxMjY4MTE1MDIxLDEzMT
+eyJoaXN0b3J5IjpbMTE5ODQ3NzEzMSwxMjY4MTE1MDIxLDEzMT
 UwODQ4OTYsLTE3NDY2ODg4NjYsLTExOTk4NTAxNTddfQ==
 -->
