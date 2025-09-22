@@ -32,8 +32,8 @@ The ERP system we used provided an integration toolkit written in .NET that used
 
 ## The Problem
 
-The Final Assembly and Packaging team was receiving new firearms into our inventory while entering in Serial Numbers manually. We were asked to solve this problem in order to prevent future errors in Serial Number entry for ATF compliance. 
-Describe the issue you were solving in clear terms. Who was affected, and what were the stakes?
+The Final Assembly and Packaging team was manually entering serial numbers into our ERP during firearm intake. This process was error-prone and high-volume, creating compliance risk under ATF regulations. We were tasked with eliminating these errors to ensure traceability and prevent costly compliance violations.
+
 
 ## Constraints & Requirements
 
@@ -89,6 +89,6 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU1NDYyMjAsMTI2ODExNTAyMSwxMz
-E1MDg0ODk2LC0xNzQ2Njg4ODY2LC0xMTk5ODUwMTU3XX0=
+eyJoaXN0b3J5IjpbLTI4NjM1NzE2NCwxMjY4MTE1MDIxLDEzMT
+UwODQ4OTYsLTE3NDY2ODg4NjYsLTExOTk4NTAxNTddfQ==
 -->
