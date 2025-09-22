@@ -37,6 +37,7 @@ The Final Assembly and Packaging team was manually entering serial numbers into 
 
 ## Constraints & Requirements
 
+Legacy Systems, including outdated label printing software. 
 What made this challenging? (e.g., compliance, scale, time, legacy systems, cost).
 
 ## The Solution
@@ -89,6 +90,7 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjM1NzE2NCwxMjY4MTE1MDIxLDEzMT
-UwODQ4OTYsLTE3NDY2ODg4NjYsLTExOTk4NTAxNTddfQ==
+eyJoaXN0b3J5IjpbLTU3MDQ4ODIyMiwtMjg2MzU3MTY0LDEyNj
+gxMTUwMjEsMTMxNTA4NDg5NiwtMTc0NjY4ODg2NiwtMTE5OTg1
+MDE1N119
 -->
