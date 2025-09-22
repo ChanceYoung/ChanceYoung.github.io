@@ -23,15 +23,16 @@ The ERP system we used provided an integration toolkit written in .NET that used
 
 -   **Span:** September 5 – September 13, 2023
     
--   **Context:** The packaging team needed to stop entering Serial Numbers Manually.
+-   **Context:** The packaging team needed to stop entering Serial Numbers manually while receiving new guns into inventory.
     
 -   **Impact:**
-	- At peak over 300 serial numbers/day automatically received into system
+	- At peak over 300 firearms/day automatically received into system
 	-  
     
 
 ## The Problem
 
+The packaging and r
 Describe the issue you were solving in clear terms. Who was affected, and what were the stakes?
 
 ## Constraints & Requirements
@@ -88,6 +89,6 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODExNTAyMSwxMzE1MDg0ODk2LC0xNz
-Q2Njg4ODY2LC0xMTk5ODUwMTU3XX0=
+eyJoaXN0b3J5IjpbLTY3Mjg2NTY1NywxMjY4MTE1MDIxLDEzMT
+UwODQ4OTYsLTE3NDY2ODg4NjYsLTExOTk4NTAxNTddfQ==
 -->
