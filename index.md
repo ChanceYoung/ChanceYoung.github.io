@@ -9,6 +9,7 @@ I’m a software engineer, and this site is focused on improving how I explain m
 
 Feel free to explore my project summaries below. If my work resonates with you and you think I could be a valuable addition to your team, you can view my resume [here](/assets/downloadables/ChanceYoungResume%209_3_25.pdf), download it with the nav link, or reach me directly at <chanceyoungwebdev@gmail.com>.
 
+<p>Site created: {{ site.created | date: "%B %d, %Y" }}</p>
 <p>Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
 
 ## Featured Projects
