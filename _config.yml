@@ -2,6 +2,7 @@ title: "Chance Young"
 description: "Portfolio Project summaries with selective code."
 url: "https://chanceyoung.dev"
 baseurl: ""
+created: 2025-09-11
 
 markdown: kramdown
 highlighter: rouge
