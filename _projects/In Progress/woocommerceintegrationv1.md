@@ -19,8 +19,10 @@ layout: default
 We needed a way to have a record of orders which were marked as completed inside of our webstore in order to maintain proper inventory and sales numbers. 
 
 ## Constraints & Requirements
-- Needed it within a month
-- Lack of 
+This solution had to be made within a month and needed to:
+- Receive a webhook object from WooCommerce
+- Convert that object to a Domain Order Model
+- Persist that Order to our ERP through the provided Entity Relation Model
 ## Our Solution
 We visited the idea with the integration toolkit provided by our ERP system. This time, however, instead of using the binaries that allowed me to engage with Inventory documents, I was able to create Full on Customer Orders. The data flow went as follows:
 ```mermaid
@@ -50,5 +52,5 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI5OTQ2MDAsMTQwOTI3MDc5N119
+eyJoaXN0b3J5IjpbLTk3OTE2Nzc4NSwxNDA5MjcwNzk3XX0=
 -->
