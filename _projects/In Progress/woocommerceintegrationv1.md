@@ -15,7 +15,12 @@ layout: default
 -   **Impact (TL;DR):** 
 	- Over $2.3 million in sales done since implementation
 	- Error rate of .04% in order entry from webstore
+## The Problem
+We needed a way to have a record of orders which were marked as completed inside of our webstore in order to maintain proper inventory and sales numbers. 
 
+## Constraints & Requirements
+- Needed it within a month
+- Lack of 
 ## Our Solution
 We visited the idea with the integration toolkit provided by our ERP system. This time, however, instead of using the binaries that allowed me to engage with Inventory documents, I was able to create Full on Customer Orders. The data flow went as follows:
 ```mermaid
@@ -45,5 +50,5 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2Nzk4MjE3LDE0MDkyNzA3OTddfQ==
+eyJoaXN0b3J5IjpbLTExMDI5OTQ2MDAsMTQwOTI3MDc5N119
 -->
