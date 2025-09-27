@@ -27,7 +27,7 @@ The ERP system we used provided an integration toolkit written in .NET that used
     
 -   **Impact:**
 	- At peak over 300 firearms/day automatically received into system
-	-  
+	- Reduction of packaging process time by nearly 30% 
     
 
 ## The Problem
@@ -90,7 +90,7 @@ What you’d like to add, refine, or expand on later.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDQ4ODIyMiwtMjg2MzU3MTY0LDEyNj
-gxMTUwMjEsMTMxNTA4NDg5NiwtMTc0NjY4ODg2NiwtMTE5OTg1
-MDE1N119
+eyJoaXN0b3J5IjpbLTQ5NjEyOTgzNSwtNTcwNDg4MjIyLC0yOD
+YzNTcxNjQsMTI2ODExNTAyMSwxMzE1MDg0ODk2LC0xNzQ2Njg4
+ODY2LC0xMTk5ODUwMTU3XX0=
 -->
