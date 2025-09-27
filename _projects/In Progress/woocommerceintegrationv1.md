@@ -6,12 +6,11 @@ tags: [C#, WooCommerce]
 featured: false
 layout: default    
 ---
-
 ## Project Overview
 
--   **Span:** Month Day – Month Day, Year
+-   **Span:** May – June 2023
     
--   **Context:** We needed a way to connect order completed in our ecomme
+-   **Context:** We needed a way to connect order completed in our webstore to our ERP system.
     
 -   **Impact (TL;DR):** 2–3 bullets with measurable results (speedup, error reduction, adoption, etc.).
 
@@ -40,7 +39,9 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+> Written with [StackEdit](https://stackedit.io/).## Project Overview
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgyNTM3NjMsMTQwOTI3MDc5N119
+eyJoaXN0b3J5IjpbMjAwOTExMzA1NiwxNDA5MjcwNzk3XX0=
 -->
