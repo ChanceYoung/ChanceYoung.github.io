@@ -12,10 +12,12 @@ layout: default
     
 -   **Context:** We needed a way to connect order completed in our webstore to our ERP system.
     
--   **Impact (TL;DR):** 2–3 bullets with measurable results (speedup, error reduction, adoption, etc.).
+-   **Impact (TL;DR):** 
+	- Over $2.3 million in sales done since implementation
+	- Error rate of .04% in order entry from webstore
 
 ## Our Solution
-Once again we visited the idea with the integration toolkit provided by our ERP system. This time, however, instead of using the binaries that allowed me to engage with Inventory documents, I was able to create Full on Customer Orders. The data flow went as follows:
+We visited the idea with the integration toolkit provided by our ERP system. This time, however, instead of using the binaries that allowed me to engage with Inventory documents, I was able to create Full on Customer Orders. The data flow went as follows:
 ```mermaid
 graph LR
 A(WooCommerce Order marked Completed) -- Webhook Payload --> B(WebOrderAPI) -- Transformed Order Information --> C(Infor VISUAL)
@@ -43,5 +45,5 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTExMzA1NiwxNDA5MjcwNzk3XX0=
+eyJoaXN0b3J5IjpbODk2Nzk4MjE3LDE0MDkyNzA3OTddfQ==
 -->
