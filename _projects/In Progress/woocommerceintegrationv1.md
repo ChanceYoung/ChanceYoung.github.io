@@ -6,10 +6,14 @@ tags: [C#, WooCommerce]
 featured: false
 layout: default    
 ---
+
 ## Project Overview
-#### Project Span: May-June 2023
-### The Problem
-Our team was asked to connect customer orders placed on our WooCommerce website to Customer Orders in our ERP system. 
+
+-   **Span:** Month Day – Month Day, Year
+    
+-   **Context:** We needed a way to connect order completed in our ecomme
+    
+-   **Impact (TL;DR):** 2–3 bullets with measurable results (speedup, error reduction, adoption, etc.).
 
 ## Our Solution
 Once again we visited the idea with the integration toolkit provided by our ERP system. This time, however, instead of using the binaries that allowed me to engage with Inventory documents, I was able to create Full on Customer Orders. The data flow went as follows:
@@ -38,5 +42,5 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU4NzQ0MzYsMTQwOTI3MDc5N119
+eyJoaXN0b3J5IjpbLTEyNzgyNTM3NjMsMTQwOTI3MDc5N119
 -->
