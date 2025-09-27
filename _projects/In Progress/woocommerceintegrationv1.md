@@ -3,7 +3,7 @@ title: "Woocommerce Webhook Integration Version 1"
 thumb: /assets/images/generic-thumb.jpg
 summary: "An Ecommerce to ERP solution"
 tags: [C#, WooCommerce]      
-featured: false
+featured: true
 layout: default    
 ---
 ## Project Overview
@@ -14,7 +14,8 @@ layout: default
     
 -   **Impact:** 
 	- Over $2.3 million in sales processed since implementation
-	- Error rate of .04% in order entry from webstore
+	- Error rate of .04% in processed orders
+
 ## The Problem
 We needed a way to have a record of orders which were marked as completed inside of our webstore in order to maintain proper inventory and sales numbers. 
 
@@ -25,7 +26,7 @@ This solution had to be made within a month and needed to:
 - Persist that Order to our ERP through the provided Entity Relation Models.
  
 ## Our Solution
-We designed the flow as follows: 
+We designed the process to flow as follows: 
 ```mermaid
 graph LR
 A(WooCommerce Order marked Completed) -- Webhook Payload --> B(WebOrderAPI) -- Transformed Order Information --> C(Infor VISUAL)
@@ -54,5 +55,5 @@ I had never worked with WooCommerce before this project. I found it very straigh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA2MTUzMTcsMTQwOTI3MDc5N119
+eyJoaXN0b3J5IjpbMTQ2NjQ1NjMyMCwxNDA5MjcwNzk3XX0=
 -->
